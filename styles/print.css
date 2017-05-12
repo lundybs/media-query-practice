@@ -1,12 +1,12 @@
-﻿nav, footer, video{
+﻿/*nav, footer, video{
     display: none;
-}
-a:after{
+}*/
+/*a:after{
     content: " (" attr(href) ")";
     font-size:80%;
-}
+}*/
 
-body{
+/*body{
     padding:0;
 
 }
@@ -39,4 +39,4 @@ article{
 
 @media (monochrome){
     body{color: black;}
-}
+}*/
